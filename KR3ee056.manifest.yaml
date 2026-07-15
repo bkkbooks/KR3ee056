@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee056/v1
 canonical_location: https://kanripo.org/bkk/KR3ee056/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 銅人腧穴鍼灸圖經
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3ee056_001.yaml
     hash: sha256:701937f064913a980dc5931b1d1e8bbf242dbb9a47f766266e581657cc409385
 table_of_contents: []
-hash: sha256:d04bd81fa8cbb879761bfe9c41306cecc19f05543ff4cab794daaefd2aa042aa
+hash: sha256:155c8806be53d32d4e211006f9669cb04eb0b1a132ea4efd2b2227f7b1e7d435
